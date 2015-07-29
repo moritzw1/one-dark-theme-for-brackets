@@ -2,7 +2,7 @@
 
 span.cm-attribute	{ color: #E06C75; }
 span.cm-builtin     { color: #6CAFF2; }
-span.cm-def			{ color: #ABB2BF; }
+span.cm-def			{ color: #6CAFF2; }
 span.cm-header      { color: #ABB2BF; }
 span.cm-qualifier	{ color: #CD9A61; }
 span.cm-variable	{ color: #ABB2BF; }
@@ -13,7 +13,7 @@ span.cm-string-2    { color: #98C379; }
 
 span.cm-meta		{ color: #ABB2BF; }
 span.cm-property	{ color: #ABB2BF; }
-span.cm-tag			{ color: #61AFEF; }
+span.cm-tag			{ color: #6CAFF2; }
 
 span.cm-variable-2	{ color: #C678DD; }
 span.cm-variable-3	{ color: #64B6C3; }
@@ -29,7 +29,44 @@ span.cm-bracket		{ color: #3b6fff; }
 span.cm-string		{ color: #98C379; }
 
 
-/* MISC ---------------------------------------------------------------------- */
+/* Sidebar */
+
+.panel {
+    background: #21252B !important;
+    color: #ABB2BF !important;
+}
+
+#working-set-list-container {
+    background: #21252B !important;
+    color: #ABB2BF !important;
+}
+
+#project-files-header {
+    background: #292E35 !important;
+}
+
+#project-files-header .btn-alt-quiet, .working-set-header>span {
+    background: #292E35 !important;
+}
+
+.working-set-header {
+    background: #292E35 !important;
+}
+
+#main-toolbar {
+    background: #21252B !important;
+    width: 35px;
+    padding: 7px 3px;
+    color: #ABB2BF !important;
+}
+
+.dark #status-bar {
+    background: #21252B !important;
+    border-top: none !important; 
+    color: #ABB2BF !important;
+}
+    
+/* Editor */
 
 .CodeMirror {
     line-height: 1.4;
