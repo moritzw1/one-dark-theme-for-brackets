@@ -11,4 +11,4 @@ Inspired by One Dark Theme for Atom Editor.
 
 ![Screenshot](https://github.com/moritzw1/one-dark-theme-for-brackets/blob/master/screenshot/new-one-dark-theme.png)
 
-HTML, CSS an JS ajustments coming soon :)
+HTML, CSS and JS ajustments coming soon :)
