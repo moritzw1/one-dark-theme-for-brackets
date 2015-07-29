@@ -1,4 +1,4 @@
-/* SWATCHES ---------------------------------------------------------------------- */
+/* Colors */
 
 span.cm-attribute	{ color: #E06C75; }
 span.cm-builtin     { color: #6CAFF2; }
@@ -27,44 +27,6 @@ span.cm-number		{ color: #D19A66; }
 
 span.cm-bracket		{ color: #3b6fff; }
 span.cm-string		{ color: #98C379; }
-
-
-/* Sidebar */
-
-.panel {
-    background: #21252B !important;
-    color: #ABB2BF !important;
-}
-
-#working-set-list-container {
-    background: #21252B !important;
-    color: #ABB2BF !important;
-}
-
-#project-files-header {
-    background: #292E35 !important;
-}
-
-#project-files-header .btn-alt-quiet, .working-set-header>span {
-    background: #292E35 !important;
-}
-
-.working-set-header {
-    background: #292E35 !important;
-}
-
-#main-toolbar {
-    background: #21252B !important;
-    width: 35px;
-    padding: 7px 3px;
-    color: #ABB2BF !important;
-}
-
-.dark #status-bar {
-    background: #21252B !important;
-    border-top: none !important; 
-    color: #ABB2BF !important;
-}
     
 /* Editor */
 
