@@ -80,7 +80,7 @@ span.cm-string		{ color: #98C379; }
 }
 
 .CodeMirror-activeline-background {
-	background: #3E4451 !important;
+	background: #2C323B !important;
 }
 
 .CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
