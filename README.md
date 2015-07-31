@@ -9,6 +9,9 @@ Inspired by One Dark Theme for Atom Editor.
 * Search for "New One Dark Theme"
 * Click "Install"
 
-![Screenshot](https://github.com/moritzw1/one-dark-theme-for-brackets/blob/master/screenshot/new-one-dark-theme.png)
-
-HTML, CSS and JS ajustments coming soon :)
+## Javascript
+![JS Screenshot](https://github.com/moritzw1/one-dark-theme-for-brackets/blob/master/screenshot/js_screenshot.png)
+## HTML
+![HTML Screenshot](https://github.com/moritzw1/one-dark-theme-for-brackets/blob/master/screenshot/html_screenshot.png)
+## CSS
+![CSS Screenshot](https://github.com/moritzw1/one-dark-theme-for-brackets/blob/master/screenshot/css_screenshot.png)

@@ -2,7 +2,7 @@
     "title": "New One Dark",
     "name": "new-one-dark-theme",
     "description": "Inspired by the One Dark Theme from Atom Editor",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "author": "moritzw1 (https://github.com/moritzw1)",
     "homepage": "https://github.com/moritzw1/one-dark-theme-for-brackets",
     "repository": {
@@ -11,10 +11,11 @@
     },
     "license": "MIT",
     "engines": {
-        "brackets": ">=1.0.0"
+        "brackets": ">=1.1.0"
     },
     "theme": {
         "file": "main.css",
-        "dark": true
+        "dark": true,
+        "addModeClass": true
     }
 }

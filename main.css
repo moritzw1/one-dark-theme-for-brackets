@@ -1,32 +1,41 @@
-/* Colors */
+/* CSS, LESS */
 
-span.cm-attribute	{ color: #E06C75; }
-span.cm-builtin     { color: #6CAFF2; }
-span.cm-def			{ color: #6CAFF2; }
+.cm-m-css.cm-tag { color: #D86C74; }
+.cm-m-css.cm-property { color: #ABB2BF; }
+.cm-m-css.cm-number { color: #D19A66; }
+.cm-m-css.cm-atom { color: #64B6C3; }
+.cm-m-css.cm-string { color: #98C379; }
+.cm-m-css.cm-builtin { color: #6CAFF2; }
+.cm-m-css.cm-qualifier { color: #CD9A61; }
+
+/* HTML, XML */
+
+.cm-m-xml.cm-tag.cm-bracket { color: #ABB2BF; }
+.cm-m-xml.cm-tag { color: #D86C74; }
+.cm-m-xml.cm-attribute { color: #D19A66; }
+.cm-m-xml.cm-string { color: #98C379; }
+
+/* Javascript */
+
+.cm-m-javascript.cm-keyword { color: #D86C74; }
+.cm-m-javascript.cm-def { color: #6CAFF2; }
+.cm-m-javascript.cm-operator { color: #ABB2BF; }
+.cm-m-javascript.cm-string { color: #98C379; }
+.cm-m-javascript.cm-number { color: #D19A66; }
+.cm-m-javascript.cm-variable-2 { color: #C678DD; }
+.cm-m-javascript.cm-property { color: #ABB2BF; }
+.cm-m-javascript.cm-atom { color: #64B6C3; }
+
+/* General */
+
 span.cm-header      { color: #ABB2BF; }
-span.cm-qualifier	{ color: #CD9A61; }
 span.cm-variable	{ color: #ABB2BF; }
-
-span.cm-atom		{ color: #64B6C3; }
 span.cm-link		{ color: #98C379; }
 span.cm-string-2    { color: #98C379; }
-
 span.cm-meta		{ color: #ABB2BF; }
-span.cm-property	{ color: #ABB2BF; }
-span.cm-tag			{ color: #6CAFF2; }
-
-span.cm-variable-2	{ color: #C678DD; }
 span.cm-variable-3	{ color: #64B6C3; }
-
 span.cm-comment		{ color: #667689; }
 span.cm-error		{ color: red; }
-span.cm-keyword		{ color: #D86C74; }
-span.cm-operator	{ color: #ABB2BF; }
-
-span.cm-number		{ color: #D19A66; }
-
-span.cm-bracket		{ color: #3b6fff; }
-span.cm-string		{ color: #98C379; }
     
 /* Editor */
 
