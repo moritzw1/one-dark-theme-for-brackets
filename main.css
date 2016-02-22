@@ -73,6 +73,11 @@ span.cm-error		{ color: red; }
 	border-right: 1px solid #282C34;
 }
 
+.CodeMirror-foldmarker {
+    border: 1px solid #464C59;
+    background-color: #282C34;
+}
+
 .CodeMirror-linenumber {
 	color: #4B5363;
 }
