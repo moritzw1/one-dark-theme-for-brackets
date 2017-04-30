@@ -59,6 +59,15 @@ span.cm-error		{ color: red; }
 .cm-m-python.cm-def { color: #6CAFF2; }
 .cm-m-python.cm-number { color: #D19A66; }
 
+/* SQL */
+
+.cm-m-sql { color: #ABB2BF; }
+.cm-m-sql.cm-variable-2 { color: #D19A66; }
+.cm-m-sql.cm-keyword { color: #C678DD; }
+.cm-m-sql.cm-builtin { color: #C678DD; }
+.cm-m-sql.cm-string { color: #98C379; }
+.cm-m-sql.cm-number { color: #D19A66; }
+
 /* Editor */
 
 .CodeMirror {
